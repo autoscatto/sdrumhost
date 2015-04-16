@@ -1,0 +1,2 @@
+# sdrumhost
+-ads +sdrumo
